@@ -1,21 +1,43 @@
 *{
     margin: 0px;
     padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .headerCss{
-    background-color: #D8A7B1;
+    background-color: #040303;
     height: 50px;
     padding-top:20px;
 }
 .headerCss div{
     margin:0 auto;
-    width: 332px;
+    width: 335px;
 }
 .headerCss button{
     height: 30px;
     width:80px;
     border: none;
     border-radius: 10px;
-    background-color: #FAE8E0;
+    background-color: #040303;
+    color:white;
+    font-size: 16px;
 }
+
+
+.firstContainer{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #191919;
+    color: white;
+    text-align: center;line-height: 40px;
+}
+
+.firstContainer button{
+    background-color: #191919;
+    color: crimson;
+    border: 2px solid #040303;
+    padding: 10px;
+    font-size: 14px;
+}
+
+
