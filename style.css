@@ -107,31 +107,75 @@
 }
 
 
-.educationContainerBG{
-background-color: #cfcfcf;
+.educationContainerBG {
+    background-color: #cfcfcf;
 }
 
-.educationContainer{
+.educationContainer {
     margin: 0 auto;
     width: 800px;
     padding: 60px 0;
 }
 
-.educationContainer h1{
+.educationContainer h1 {
     color: #dc143c;
     text-align: center;
 }
 
-.educationContainer h3{
+.educationContainer h3 {
     padding-top: 10px;
 }
-.educationContainer img,h2{
+
+.educationContainer img,
+h2 {
     padding-top: 30px;
     display: inline;
 }
 
 
 
-.educationContainer p{
+.educationContainer p {
     text-align: justify;
+}
+
+.contactContainer {
+    margin: 0 auto;
+    width: 800px;
+    padding: 60px 0;
+    background-color: #040303;
+    color: white;
+}
+
+.contactContainer h1 {
+    color: #dc143c;
+    text-align: center;
+}
+
+.contactContainer h3 {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.contactContainer p {
+    text-align: center;
+}
+
+.contactContainer input {
+    width: 800px;
+    border: 1px solid #191919;
+    background-color: #040303;
+    margin: 5px;
+    color: white;
+}
+
+.contactContainer input[placeholder] {
+    font-size: 16px;
+    padding: 16px;
+}
+
+.contactContainer input[type=submit] {
+    width: 835px;
+    padding: 16px;
+    background-color: #dc143c;
+    font-size: 16px;
 }
