@@ -205,3 +205,39 @@ h2 {
     padding: 5px;
     color: #191919;
 }
+
+
+.photographyContainer{
+    margin: 0 auto;
+    width: 800px;
+    padding: 60px 0;   
+}
+
+.photographyContainer h1 {
+    color: #dc143c;
+    text-align: center;
+}
+
+.photographyContainer h3 {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.photographyContainer p {
+    text-align: center;
+}
+
+footer{
+    background-color: #040303;
+    height: 60px;
+}
+footer div{
+    text-align: center;
+    background-color: #191919;
+    margin-top: -20px;
+    padding: 10px;
+}
+
+footer a{
+    margin: 30px;
+}
