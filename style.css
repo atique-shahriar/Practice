@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.headerCss{
+    background-color: #D8A7B1;
+    height: 50px;
+    padding-top:20px;
+}
+.headerCss div{
+    margin:0 auto;
+    width: 332px;
+}
+.headerCss button{
+    height: 30px;
+    width:80px;
+    border: none;
+    border-radius: 10px;
+    background-color: #FAE8E0;
+}
